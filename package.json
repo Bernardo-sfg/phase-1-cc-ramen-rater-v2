@@ -26,7 +26,9 @@
   "homepage": "https://github.com/learn-co-curriculum/phase-1-mock-cc-ramen-rater#readme",
   "dependencies": {
     "@testing-library/dom": "^9.3.4",
-    "happy-dom": "^13.2.1",
-    "vitest": "^1.2.1"
+    "happy-dom": "^13.2.1"
+  },
+  "devDependencies": {
+    "vitest": "^2.0.5"
   }
 }
